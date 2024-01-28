@@ -1,0 +1,20 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: GFM
+
+exclude:
+  - _docs
+  - _doc_builder
+  - .github
+  - .git
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE
