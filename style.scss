@@ -1,0 +1,13 @@
+body {
+    font: -apple-system-body;
+    -webkit-text-size-adjust: none;
+}
+pre, xmp, plaintext, listing, tt, code, kbd, samp {
+    font-family: ui-monospace, Menlo;
+}
+a {
+    color: var(--tint-color);
+}
+p, h1, h2, h3, h4, h5, h6, ul, ol {
+    margin: 0 0 16px 0;
+}
