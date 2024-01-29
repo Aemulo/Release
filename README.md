@@ -6,6 +6,6 @@ This major change brings two amazing benefits to Aemulo. Firstly, something peop
 
 Testing for Aemulo 2.0 is going to take a little while and I've decided to do it in the open. The beta builds will not have any DRM. Distribution of releases without consent from myself is not permitted. Below is the changelogs for each version including what features will be enabled and bugs fixed.
 
-## Build (To be confirmed)
+## Build 548
 - The first public build of Aemulo 2. Primary objective for this build is testing reliability of drivers across multiple different device types, versions and jailbreaks.
 - Currently the UI is very limited and the only feature enabled is basic reading. This is by design and more features will be enabled over the next few days and weeks.
