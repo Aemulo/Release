@@ -6,6 +6,9 @@ This major change brings two amazing benefits to Aemulo. Firstly, something peop
 
 Testing for Aemulo 2.0 is going to take a little while and I've decided to do it in the open. The beta builds will not have any DRM. Distribution of releases without consent from myself is not permitted. Below is the changelogs for each version including what features will be enabled and bugs fixed.
 
+## Build 589
+- Fix the bug on iPhone 12/13/14 where connections could not be made.
+
 ## Build 563
 - Fix a bug where a failed chip connection would result in an app crash.
 
