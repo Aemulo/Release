@@ -6,6 +6,11 @@ This major change brings two amazing benefits to Aemulo. Firstly, something peop
 
 Testing for Aemulo 2.0 is going to take a little while and I've decided to do it in the open. The beta builds will not have any DRM. Distribution of releases without consent from myself is not permitted. Below is the changelogs for each version including what features will be enabled and bugs fixed.
 
+
+## Build 792
+- Create a Tag Info view and option to save tag.
+- Reading EMV Cards (Bank Cards) is significantly faster.
+
 ## Build 631
 - Fix regression where socket connection can't be made on devices prior to iPhone 12.
 - Fix bug where the session cancel button caused a hang.
